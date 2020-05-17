@@ -1,0 +1,15 @@
+Package: dienfar
+Title: dienfar
+Version: 0.0.0.9000
+Date: 2020-05-16
+Authors@R: thuong le
+Description: to visualize data
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+URL: 
+RoxygenNote: 7.1.0
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
